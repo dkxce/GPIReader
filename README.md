@@ -1,4 +1,4 @@
-# GPIReder
+# GPIReader
 
 Garmin GPI Format Reader (Garmin Points of Interest)
 
