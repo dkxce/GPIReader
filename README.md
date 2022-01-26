@@ -10,3 +10,6 @@ GPIReader интегрирован в [KMZViewer](https://github.com/dkxce/KMZVi
 
 P.S: [GPI](https://www.gpsbabel.org/htmldoc-1.6.0/fmt_garmin_gpi.html) format is Garmin Points of Interest. This format is using to show objects in Garmin Navigators.   
 P.S: [GPI](https://www.gpsbabel.org/htmldoc-1.6.0/fmt_garmin_gpi.html) формат - это точки интереса Garmin, который используется для отображения объектов на навигаторах Garmin.
+
+[KMZ & GPI files Repository](https://github.com/dkxce/KMZ_FILES)     
+[Репозиторий KMZ и GPI файлов](https://github.com/dkxce/KMZ_FILES)     
