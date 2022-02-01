@@ -1,7 +1,7 @@
 # GPIReader & GPI Writer
 
 Garmin GPI Format Reader (Garmin Points of Interest) & Writer     
-[Русский](https://github.com/dkxce/GPIReader#RU)
+[English](https://github.com/dkxce/GPIReader#EN) | [Русский](https://github.com/dkxce/GPIReader#RU)
 
 ## EN
 
