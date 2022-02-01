@@ -12,7 +12,7 @@ P.S: [GPI](https://www.gpsbabel.org/htmldoc-1.6.0/fmt_garmin_gpi.html) format is
 P.S: [GPI](https://www.gpsbabel.org/htmldoc-1.6.0/fmt_garmin_gpi.html) формат - это точки интереса Garmin, который используется для отображения объектов на навигаторах Garmin.
 
 **Can Make**:
-- Multilanguage (EN or any latin, RU or anty ciryllic)
+- Multilanguage (EN or any latin, RU or any ciryllic)
 - Layers (Categories) & POIs 
 - [POI Description](https://github.com/dkxce/KMZRebuilder/blob/master/bin/Debug/gpiwriter_comaddcon_help.txt)
 - [POI Comment](https://github.com/dkxce/KMZRebuilder/blob/master/bin/Debug/gpiwriter_comaddcon_help.txt) (load/save from/to desc)
