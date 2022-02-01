@@ -19,7 +19,8 @@ P.S: [GPI](https://www.gpsbabel.org/htmldoc-1.6.0/fmt_garmin_gpi.html) format is
 - [POI Contact](https://github.com/dkxce/KMZRebuilder/blob/master/bin/Debug/gpiwriter_comaddcon_help.txt) (load/save from/to desc)
 - [POI Alert](https://github.com/dkxce/KMZRebuilder/blob/master/bin/Debug/gpiwriter_alert_help.txt) (load/save from/to desc) with sound & trigger options
 - POI Bitmap (get/set from/to kml style)
-- POI Image (get/set from/to kml style)
+- POI Image (get/set from/to kml style)     
+- 
 [KMZ & GPI files Repository](https://github.com/dkxce/KMZ_FILES) 
 
 ### STEP-BT-STEP for self-created GPI files
@@ -70,6 +71,7 @@ P.S: [GPI](https://www.gpsbabel.org/htmldoc-1.6.0/fmt_garmin_gpi.html) форм�
 - Предупреждения (POI Alert (load/save from/to desc)) со звуками и установками срабатывания
 - Иконки (POI Bitmap (get/set from/to kml style))
 - Картинки (POI Image (get/set from/to kml style))    
+- 
 [Репозиторий KMZ и GPI файлов](https://github.com/dkxce/KMZ_FILES)     
 
 ### Как создать собственные GPI файлы
