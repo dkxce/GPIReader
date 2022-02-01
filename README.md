@@ -1,21 +1,15 @@
 # GPIReader & GPI Writer
 
-Garmin GPI Format Reader (Garmin Points of Interest) & Writer
+Garmin GPI Format Reader (Garmin Points of Interest) & Writer     
+[Русский](https://github.com/dkxce/GPIReader#RU)
 
-EN:    
+## EN
+
 [GPIReader](https://github.com/dkxce/KMZRebuilder/blob/master/GPIReader.cs) & [GPIWriter](https://github.com/dkxce/KMZRebuilder/blob/master/GPIReader.cs) integrated into [KMZViewer](https://github.com/dkxce/KMZViewer) & [KMZRebuilder](https://github.com/dkxce/KMZRebuilder).    
 Also in [KMZRebuilder](https://github.com/dkxce/KMZRebuilder) you can create your own GPI files.
 
-RU:    
-[GPIReader](https://github.com/dkxce/KMZRebuilder/blob/master/GPIReader.cs) и [GPIWriter](https://github.com/dkxce/KMZRebuilder/blob/master/GPIReader.cs) интегрирован в [KMZViewer](https://github.com/dkxce/KMZViewer) и [KMZRebuilder](https://github.com/dkxce/KMZRebuilder).    
-Также, с помощью [KMZRebuilder](https://github.com/dkxce/KMZRebuilder) вы можете создавать свои собственные GPI файлы.
+P.S: [GPI](https://www.gpsbabel.org/htmldoc-1.6.0/fmt_garmin_gpi.html) format is Garmin Points of Interest. This format is using to show objects in Garmin Navigators. 
 
-EN:    
-P.S: [GPI](https://www.gpsbabel.org/htmldoc-1.6.0/fmt_garmin_gpi.html) format is Garmin Points of Interest. This format is using to show objects in Garmin Navigators.   
-EU:    
-P.S: [GPI](https://www.gpsbabel.org/htmldoc-1.6.0/fmt_garmin_gpi.html) формат - это точки интереса Garmin, который используется для отображения объектов на навигаторах Garmin.
-
-EN:    
 **Can Make**:
 - Multilanguage (EN or any latin, RU or any ciryllic)
 - Layers (Categories) & POIs 
@@ -28,21 +22,6 @@ EN:
 - POI Image (get/set from/to kml style)
 [KMZ & GPI files Repository](https://github.com/dkxce/KMZ_FILES) 
 
-RU:    
-**Полноценная поддержка GPI файлов**:
-- Multilanguage (EN or any latin, RU or any ciryllic)
-- Категории объектов (Layers (Categories))
-- Точки интересов (POI)
-- Примечания (POI Description)
-- Комментарии (POI Comment (load/save from/to desc))
-- Адресная информация (POI Address (load/save from/to desc))
-- Контактная информация (POI Contact (load/save from/to desc))
-- Предупреждения (POI Alert (load/save from/to desc)) со звуками и установками срабатывания
-- Иконки (POI Bitmap (get/set from/to kml style))
-- Картинки (POI Image (get/set from/to kml style))    
-[Репозиторий KMZ и GPI файлов](https://github.com/dkxce/KMZ_FILES)     
-
-EN:    
 ### STEP-BT-STEP for self-created GPI files
 
 1. Get KMZ files (or make your own with [KMZRebuilder](https://github.com/dkxce/KMZRebuilder))
@@ -73,7 +52,26 @@ EN:
 8. Explore with
 - [KMZViewer](https://github.com/dkxce/KMZViewer) 
 
-RU:    
+## RU
+
+[GPIReader](https://github.com/dkxce/KMZRebuilder/blob/master/GPIReader.cs) и [GPIWriter](https://github.com/dkxce/KMZRebuilder/blob/master/GPIReader.cs) интегрирован в [KMZViewer](https://github.com/dkxce/KMZViewer) и [KMZRebuilder](https://github.com/dkxce/KMZRebuilder).    
+Также, с помощью [KMZRebuilder](https://github.com/dkxce/KMZRebuilder) вы можете создавать свои собственные GPI файлы.
+
+P.S: [GPI](https://www.gpsbabel.org/htmldoc-1.6.0/fmt_garmin_gpi.html) формат - это точки интереса Garmin, который используется для отображения объектов на навигаторах Garmin.
+
+**Полноценная поддержка GPI файлов**:
+- Multilanguage (EN or any latin, RU or any ciryllic)
+- Категории объектов (Layers (Categories))
+- Точки интересов (POI)
+- Примечания (POI Description)
+- Комментарии (POI Comment (load/save from/to desc))
+- Адресная информация (POI Address (load/save from/to desc))
+- Контактная информация (POI Contact (load/save from/to desc))
+- Предупреждения (POI Alert (load/save from/to desc)) со звуками и установками срабатывания
+- Иконки (POI Bitmap (get/set from/to kml style))
+- Картинки (POI Image (get/set from/to kml style))    
+[Репозиторий KMZ и GPI файлов](https://github.com/dkxce/KMZ_FILES)     
+
 ### Как создать собственные GPI файлы
 
 1. Получите kmz файл (или создайте свой с помощью [KMZRebuilder](https://github.com/dkxce/KMZRebuilder))
