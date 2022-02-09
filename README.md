@@ -17,7 +17,7 @@ P.S: [GPI](https://www.gpsbabel.org/htmldoc-1.6.0/fmt_garmin_gpi.html) format is
 - [POI Comment](https://github.com/dkxce/KMZRebuilder/blob/master/bin/Debug/gpiwriter_comaddcon_help.txt) (load/save from/to desc)
 - [POI Address](https://github.com/dkxce/KMZRebuilder/blob/master/bin/Debug/gpiwriter_comaddcon_help.txt) (load/save from/to desc)
 - [POI Contact](https://github.com/dkxce/KMZRebuilder/blob/master/bin/Debug/gpiwriter_comaddcon_help.txt) (load/save from/to desc)
-- [POI Alert](https://github.com/dkxce/KMZRebuilder/blob/master/bin/Debug/gpiwriter_alert_help.txt) (load/save from/to desc) with sound & trigger options
+- [POI Alert](https://github.com/dkxce/KMZRebuilder/blob/master/bin/Debug/gpiwriter_alert_help.txt) (load/save from/to desc) with sound (wav, mp3) & trigger options
 - Voice Alerts (load/save from/to desc)     
 - POI Bitmap (get/set from/to kml style)
 - POI Image (get/set from/to kml style)     
